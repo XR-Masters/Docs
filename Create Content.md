@@ -9,7 +9,7 @@ XR Masters app can visualize 3D content prepared in **Unity** with **Universal R
 ### Steps
 - Create new unity project 
 - Create root content object
-- Populate your asset
+- [Populate your asset](#populate-your-asset)
 - Export unitypackage from Unity
 - Upload to [XR Masters' Website](https://upload.xr-masters.com)
 
