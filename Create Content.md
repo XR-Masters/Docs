@@ -10,8 +10,8 @@ XR Masters app can visualize 3D content prepared in **Unity** with **Universal R
 - [Create new unity project](#create-new-unity-project)
 - [Create root content object](#create-root-content-object)
 - [Populate your asset](#populate-your-asset)
-- [Export unitypackage from Unity](#export-unity-package-from-unity)
-- [Upload to XR Masters' Website](#upload-to-xr-masters'-website)
+- [Export unitypackage from Unity](#export-unitypackage-from-unity)
+- [Upload to System](#upload-to-system)
 
 ### Create new unity project
 > You can skip this step if you want to use existing **Unity URP** project
@@ -66,7 +66,7 @@ Now you can add any kind of Unity object to your root obj prefab as child. You c
 
 > Unity as default will try to include all required asset used within your prefab, but sometimes it can include other asset which aren't required for your content. You can click the deselect checkbox next to those assets to exclude them to optimize your asset's performance
 
-### Upload to [XR Masters' Website](https://upload.xr-masters.com)
+### Upload to System
 
 > You will need to have a XR Masters account for this step. You can create one with [upload.xr-masters.com](https://upload.xr-masters.com) or with our mobile app for [Android](https://play.google.com/store/apps/details?id=com.xrmasters.spatialbrowser&gl=TR) or [iOS](https://apps.apple.com/us/app/xr-masters/id1559938370)
 
