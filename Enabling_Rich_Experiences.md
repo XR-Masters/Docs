@@ -130,7 +130,7 @@ function onPointerClick(){
     //assign color to material
     material.color = color;
     
-    //notive every call is same with C# API just we are a bit more specific when we are using UnityEngine's code
+    //notice every call is same with C# API just we are a bit more specific when we are using UnityEngine's code
 }
 ``` 
 ### Network Calls
