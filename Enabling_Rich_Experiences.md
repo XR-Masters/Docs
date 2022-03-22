@@ -31,7 +31,7 @@ function update(){
 }
 ```
 
-### Accessing root content gameObject
+## Accessing root content gameObject
 
 In **JavaScript** there is predefined variable which called **gameObject**. If you access this, JS will return reference to your content root gameObject.
 
@@ -42,7 +42,7 @@ function start(){
 }
 ```
 
-### Accessing root content transform
+## Accessing root content transform
 
 In **JavaScript** there is predefined variable which called **transform**. If you access this, JS will return reference to your content root transform component.
 
@@ -52,7 +52,7 @@ function start(){
     transform.localScale = new UnityEngine.Vector3(0.6, 0.6, 0.6);
 }
 ```
-### Accessing any other gameObject
+## Accessing any other gameObject
 
 If you want to access any other gameObject which is child of your root object, you can call 
 ```js 
@@ -71,7 +71,7 @@ if(backLeftFootGO != null){
 
 ![](https://public.3.basecamp.com/p/1ZnDB2s2ux9nVayAw5G1derx/upload/download/find-function.JPG)
 
-### Getting Components
+## Getting Components
 
 For example if you look at the image below, we want to get **Animator** component from gameObject **Sphere**
 
@@ -94,7 +94,7 @@ function start(){
 }
 ``` 
 
-### Detect user taps
+## Detect user taps
 
 If your content has a any kind of collider in it's hierarchy, this collider can catch user input like clicking or tapping to your asset. When user taps on to your asset a special function named **onPointerClick** within your **JavaScript** file will be trigged if it is declared by you.
 
@@ -133,7 +133,7 @@ function onPointerClick(){
     //notice every call is same with C# API just we are a bit more specific when we are using UnityEngine's code
 }
 ``` 
-### Network Calls
+## Network Calls
 
 Being able to code your own behaviour is good, but making it synchronized between all connected users even better.
 
