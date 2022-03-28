@@ -59,8 +59,9 @@ Now you can add any kind of Unity object to your root obj prefab as child. You c
 1. Locate your prefab within **Project window**
 2. Right click on your prefab which you want to export
 3. Click **Export Package...**
-4. Click **Export...** button on the bottom right of the popup window
-5. Select location within your device to export
+4. Make sure **Include dependencies** checkbox is selected
+5. Click **Export...** button on the bottom right of the popup window
+6. Select location within your device to export
 
 ![](https://public.3.basecamp.com/p/VH5tqKq1udK1MvQjBE1phR6F/upload/download/export-unitypackage.gif)
 
