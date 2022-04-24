@@ -39,7 +39,7 @@ Once unity opens created project
 
 > Root content object's name must be **obj** otherwise your content won't be recognized as valid!
 
-> There should be only one prefab named in your obj, otherwise system will use first found obj **named** prefab and that my cause problem
+> There should be only one prefab named as **obj** in your unity package, otherwise system will use first found obj **named** prefab and that my cause problem
 
 ### Populate your asset
 
