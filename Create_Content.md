@@ -1,9 +1,9 @@
 # XR Masters' App Content Creation
 
 ## Introduction
-XR Masters app can visualize 3D content prepared in **Unity** with **Universal Render Pipeline** (*URP*). Current suggested version is Unity **2021.1.26f**
+XR Masters app can visualize 3D content prepared in **Unity** with **Universal Render Pipeline** (*URP*). Current suggested version is Unity **2021.3.0f1**
 
-> You can use any version of unity which is greater then **2021.1.1f1**
+> You can use any version of unity which is greater then **2021.3.0f1**
 
 ## Asset Creation
 ### Steps
@@ -17,7 +17,7 @@ XR Masters app can visualize 3D content prepared in **Unity** with **Universal R
 > You can skip this step if you want to use existing **Unity URP** project
 1. Open Unity Hub
 2. Click **New Project** on top right of the screen
-3. Select correct Unity Version (**2021.1.26f1**)
+3. Select correct Unity Version (**2021.3.0f1**)
 4. Select **3d Sample Scene URP**
 5. Give name to your project and select location
 6. Click **Create project** button from bottom right.
