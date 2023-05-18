@@ -1,4 +1,4 @@
-# XR Masters' App Content Creation
+# MyGeoVerse Content Creation
 
 ## Introduction
 MyGeoVerse app can visualize 3D contents prepared in **Unity** with **Universal Render Pipeline** (*URP*). Current suggested version is Unity **2021.3.0f1**
