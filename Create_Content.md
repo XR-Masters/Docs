@@ -1,7 +1,7 @@
 # XR Masters' App Content Creation
 
 ## Introduction
-XR Masters app can visualize 3D content prepared in **Unity** with **Universal Render Pipeline** (*URP*). Current suggested version is Unity **2021.3.0f1**
+MyGeoVerse app can visualize 3D contents prepared in **Unity** with **Universal Render Pipeline** (*URP*). Current suggested version is Unity **2021.3.0f1**
 
 > You can use any version of unity which is greater then **2021.3.0f1**
 
@@ -71,12 +71,12 @@ Now you can add any kind of Unity object to your root obj prefab as child. You c
 
 ### Upload to System
 
-> You will need to have a XR Masters account for this step. You can create one with [upload.xr-masters.com](https://upload.xr-masters.com) or with our mobile app for [Android](https://play.google.com/store/apps/details?id=com.xrmasters.spatialbrowser&gl=TR) or [iOS](https://apps.apple.com/us/app/xr-masters/id1559938370)
+> You will need to have a MyGeoVerse account for this step. You can create one with [mygeoverse.com](https://mygeoverse.com) or with our mobile app for [Android](https://play.google.com/store/apps/details?id=com.mygeoverse.platform&pli=1) or [iOS](https://apps.apple.com/us/app/mygeoverse/id6443591665)
 
 > Keep in mind unitypackage size should be smaller than 100mb otherwise system won't accept it
 
 1. Open a web browser
-2. Go to [upload.xr-masters.com](https://upload.xr-masters.com)
+2. Go to [mygeoverse.com](https://mygeoverse.com/assets)
 3. Click **Create Asset** button on the top right of the page
 4. Enter account information to login
 5. Give name to your content
